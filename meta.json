@@ -1,0 +1,23 @@
+{
+  "repo": "odin3-full",
+  "product": "Odin3 Full",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "firmware",
+  "topics": [
+    "odin3-samsung",
+    "firmware-slot-desk",
+    "bl-ap-windows",
+    "odin-2026",
+    "how-to-install-odin3",
+    "odin3-desktop-package",
+    "csc-reboot-suite",
+    "pass-fail-log-tools",
+    "samsung-flash-guide",
+    "odin3-windows-guide"
+  ],
+  "site": "toolix.me"
+}
